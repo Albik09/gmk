@@ -1,2 +1,0 @@
-# gmk
-gmk site
